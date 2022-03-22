@@ -3,8 +3,7 @@
 <h3 align="center">  Junior Front End Developer | Web Development Student at Trybe </h3> <br>
 
 <p align="center"> 
-![Linkedin](https://img.shields.io/badge/-Linkedin-4169E1?style=flat-square&logo=Linkedin&logoColor=white&&link=https://www.linkedin.com/in/paulacwtortato/)
-![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paulacwtortato@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Paula_Tortato-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulacwtortato/)](https://www.linkedin.com/in/paulacwtortato/) [![Gmail Badge](https://img.shields.io/badge/-paulacwtortato@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paulacwtortato@gmail.com)](mailto:paulacwtortato@gmail.com)
 </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
