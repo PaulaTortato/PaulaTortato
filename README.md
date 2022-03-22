@@ -1,16 +1,37 @@
-### Hi there 👋
+<h1 align="center"> Hello, I'm Paula Tortato 👋 </h1>
 
-<!--
-**PaulaTortato/PaulaTortato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">  Junior Front End Developer | Web Development Student at Trybe </h3> <br>
 
-Here are some ideas to get you started:
+<p align="center"> 
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-4169E1?style=flat-square&logo=Linkedin&logoColor=white&&link=https://www.linkedin.com/in/paulacwtortato/)](https://www.linkedin.com/in/paulacwtortato/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paulacwtortato@gmail.com)](mailto:paulacwtortato@gmail.com)
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### 🤔 About me
+-  **Learned so far:**
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
+![REACT](https://img.shields.io/badge/-REACT-000000?style=for-the-badge&logo=REACT)
+![REDUX](https://img.shields.io/badge/-REDUX-000000?style=for-the-badge&logo=REDUX)
+![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
+![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
+![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
+-  **Need to get better at:**
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
+![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-000000?style=for-the-badge&logo=BOOTSTRAP)
+(Just styling in general 😅)
+-  **Learning:** Back End Development 💻 | Open to learn more Front End tools as well 🔍
+-  **Hobbies:** Video Games 🎮 | Music 🎧
+-  **Ask me about:** Anything! I'll try my best to help 🙂
+-  **Fun fact:** I graduated in Psychology 👩‍🎓, but decided to venture on Web Develoment and loved it!
+-  **Pronouns:** She/Her/Hers 💃
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### 📊 Profile stats
+
+[![PaulaTortato's github stats](https://github-readme-stats.vercel.app/api?username=paulatortato&show_icons=true&theme=tokyonight)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+⭐️ From [SulthanNK](http://www.github.com/SulthanNK)
