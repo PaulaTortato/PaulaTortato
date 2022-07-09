@@ -21,6 +21,7 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
 ![MySQL](http://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=MySQL)
 ![Node.js](http://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=Node.js)
+![Express](http://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=Express)
 ![Sequelize](http://img.shields.io/badge/-Sequelize-000000?style=for-the-badge&logo=Sequelize)
 
 -  **Need to get better at:**
