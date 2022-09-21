@@ -33,7 +33,7 @@
 ![TypeScript](http://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=TypeScript)
 (Recently started with this one)
 
--  **Learning:** Back End Development 💻 | Open to learn more Front End tools as well 🔍
+-  **Learning:** CS 💻 | Open to learn more Front End and Back End tools as well 🔍
 
 -  **Hobbies:** Video Games 🎮 | Music 🎧
 
