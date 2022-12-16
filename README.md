@@ -1,6 +1,6 @@
 <h1 align="center"> Hello, I'm Paula Tortato 👋 </h1>
 
-<h3 align="center">  Software Developer at Mercado Livre | Web Development Student at Trybe </h3> <br>
+<h3 align="center">  Software Developer at Mercado Livre </h3> <br>
 
 <p align="center"> 
 <a href='https://www.linkedin.com/in/paulacwtortato/'><img src='https://img.shields.io/badge/-Paula_Tortato-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulacwtortato/' /></a> <a href=mailto:paulacwtortato@gmail.com><img src='https://img.shields.io/badge/-paulacwtortato@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paulacwtortato@gmail.com' /></a>
@@ -31,9 +31,8 @@
 (Just styling in general 😅)
 
 ![TypeScript](http://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=TypeScript)
-(Recently started with this one)
 
--  **Learning:** CS 💻 | Open to learn more Front End and Back End tools as well 🔍
+-  **Learning:** Java 💻 | Open to learn more Front End and Back End tools as well 🔍
 
 -  **Hobbies:** Video Games 🎮 | Music 🎧
 
